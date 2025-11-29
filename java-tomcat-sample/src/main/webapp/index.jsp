@@ -1,4 +1,4 @@
- <div class="container">
+<div class="container">
   <form action="/action_page.php">
     <div class="row">
       <h2 style="text-align:center">Login with Social Media or Manually</h2>
@@ -41,4 +41,4 @@
       <a href="#" style="color:white" class="btn">Forgot password?</a>
     </div>
   </div>
-</div> 
+</div>
